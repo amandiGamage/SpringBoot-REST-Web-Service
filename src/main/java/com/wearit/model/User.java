@@ -1,4 +1,4 @@
-package com.werit.model;
+package com.wearit.model;
 
 import javax.persistence.*;
 import java.io.Serializable;
