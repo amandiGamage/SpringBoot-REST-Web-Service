@@ -53,7 +53,7 @@ public class DatabaseConfig {
   public LocalSessionFactoryBean sessionFactory() {
     LocalSessionFactoryBean sessionFactoryBean = new LocalSessionFactoryBean();
     sessionFactoryBean.setDataSource(dataSource());
-    sessionFactoryBean.setPackagesToScan(new String[] { "com.spring.model" });
+    sessionFactoryBean.setPackagesToScan(new String[] { "com.wearit.model" });
     Properties hibernateProperties = new Properties();
     hibernateProperties.put("hibernate.dialect", HIBERNATE_DIALECT);
     hibernateProperties.put("hibernate.show_sql", HIBERNATE_SHOW_SQL);
