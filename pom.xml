@@ -4,8 +4,8 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>SpringBoot-Test-BoilerPlate</groupId>
-    <artifactId>SpringBoot-Test-BoilerPlate</artifactId>
+    <groupId>SpringBoot-REST-WEB-Servoce</groupId>
+    <artifactId>SpringBoot-REST-WEB-Service</artifactId>
     <version>1.0</version>
 
     <name>spring-boot-mysql-hibernate</name>
